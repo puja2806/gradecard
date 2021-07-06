@@ -1,0 +1,14 @@
+.bgcolor{
+    background-image: url("https://res.cloudinary.com/dfwi80kul/image/upload/v1625579790/GRADECARD_bp4k04.jpg");
+    height: 80vh;
+    background-size: cover;
+}
+
+.imggg{
+    width: 80vw;
+}
+
+.sign{
+    align-items:right;
+    text-align: right;
+}
